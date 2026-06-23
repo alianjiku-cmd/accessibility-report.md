@@ -1,4 +1,4 @@
-# accessibility-report.md
+# Task 2.3: Accessibility Audit
 
 **#Issues found*
 There were issues affecting this run of Lighthouse:
